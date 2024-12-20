@@ -6,8 +6,8 @@ import time
 from datetime import datetime, timedelta
 
 # Constants
-AGENT_ID = "A8BOBK3KW2"
-AGENT_ALIAS_ID = "ULQOQRBUIW"
+AGENT_ID = "Enter your Bedrock Agent ID"
+AGENT_ALIAS_ID = "Enter your Bedrock Agent Alias ID"
 COST_PER_INPUT_TOKEN = 0.00025
 COST_PER_OUTPUT_TOKEN = 0.00025
 
